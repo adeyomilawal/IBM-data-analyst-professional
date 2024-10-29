@@ -6,7 +6,7 @@ This was a project in the IBM Data Analyst course series which utilizes visualiz
 
 The dataset used in this assignment comes from the following source: 
 
-https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ 
+(https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/)
 
 **TASK 1**
 
