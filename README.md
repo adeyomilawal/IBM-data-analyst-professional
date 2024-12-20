@@ -44,7 +44,7 @@ This credential earner has demonstrated proficiency in applying different analyt
 
 
 <p align="center">
-<img src="/![WhatsApp Image 2024-11-04 at 03 55 46](https://github.com/user-attachments/assets/75a6887e-fa89-4fa5-9454-d49fb56b8a14)" width=80% height=80%>
+<img src="/[WhatsApp Image 2024-11-04 at 03 55 46](https://github.com/user-attachments/assets/96dc4870-6dd7-40f9-b294-fe85f558995e)" width=80% height=80%>
 
 ---
 
