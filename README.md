@@ -49,7 +49,7 @@ This credential earner has demonstrated proficiency in applying different analyt
 
 There are 9 Courses in this Professional Certificate Specialization are as follows:
 
-- [x] [__Course-1 : Introduction to Data Analytics__](https://github.com/user-attachments/assets/fb4f1075-b3c2-40b6-8651-0c12a0eb4af2)
+- ![WhatsApp Image 2024-12-20 at 09 21 46](https://github.com/user-attachments/assets/2edb98c7-dfc9-447a-aff2-ebf69d721f9d)
 
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
