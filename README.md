@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2024-11-04 at 03 55 46](https://github.com/user-attachments/assets/546352ec-fe0e-42e9-b06d-f7acddb5163f)
 # IBM Data Analyst Professional Certificate <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
 ## 📍 About Professional Certificate
@@ -43,7 +43,8 @@ At the end of the program, you complete a real-world capstone project specifical
 This credential earner has demonstrated proficiency in applying different analytical techniques by analyzing real-world datasets, creating visualizations & interactive dashboards, and presenting reports to share findings of data analysis, and is now equipped with skills for an entry-level role in data analytics. The earner has successfully completed 9 courses in Data Analytics and gained hands-on experience with data analysis tools, including Excel, SQL, Databases, Python, JupyterLab and Cognos.
 
 <p align="center">
-<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png" width=80% height=80%>
+<img src="/Lakshmi Kadali Certificates/Lakshmi-Kadali-IBM-Data-Analyst-Professional-Certificate-Coursera KELB5RZGPCH2.png ![WhatsApp Image 2024-11-04 at 03 55 46](https://github.com/user-attachments/assets/ecb0c060-3053-4224-afbd-3c6de9f60709)
+" width=80% height=80%>
 
 ---
 
